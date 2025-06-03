@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
  int h;
  float vh, add, s;
