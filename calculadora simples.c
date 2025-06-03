@@ -1,8 +1,4 @@
-
-#include <stdio.h>
-
-int main()
-{
+int main(){
  float x, y;
  float calc;
  char s;
