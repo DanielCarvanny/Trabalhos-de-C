@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main()
 {
     char a[5][10], v[10] = {'a','b','c','d','a','b','c','d','d','a'};
