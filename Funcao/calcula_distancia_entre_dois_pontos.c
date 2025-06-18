@@ -2,15 +2,14 @@
 #include <math.h>
 
 float distancia(float x1,float x2, float y1 , float y2) {
-    float dx;
-    float dy;
+    float dx = 0;
+    float dy = 0;
     
     dx = x2 - x1;
     dy = y2 - y1;
     
     
     return sqrt((dx*dx) + (dy*dy));
-
 }
 
 int main() {
